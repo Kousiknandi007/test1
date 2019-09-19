@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B400-19FC
+
+ Directory of C:\Users\KousikNandi\Desktop\Testproject
+
+09/19/2019  01:13 PM    <DIR>          .
+09/19/2019  01:13 PM    <DIR>          ..
+09/19/2019  01:00 PM               362 test1.txt
+09/19/2019  01:13 PM                 0 test2.txt
+               2 File(s)            362 bytes
+               2 Dir(s)  162,546,188,288 bytes free
